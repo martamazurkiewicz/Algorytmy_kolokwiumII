@@ -1,0 +1,11 @@
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\bin\Debug\netcoreapp3.1\zadanie4.exe
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\bin\Debug\netcoreapp3.1\zadanie4.deps.json
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\bin\Debug\netcoreapp3.1\zadanie4.runtimeconfig.json
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\bin\Debug\netcoreapp3.1\zadanie4.runtimeconfig.dev.json
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\bin\Debug\netcoreapp3.1\zadanie4.dll
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\bin\Debug\netcoreapp3.1\zadanie4.pdb
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\obj\Debug\netcoreapp3.1\zadanie4.csprojAssemblyReference.cache
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\obj\Debug\netcoreapp3.1\zadanie4.AssemblyInfoInputs.cache
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\obj\Debug\netcoreapp3.1\zadanie4.AssemblyInfo.cs
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\obj\Debug\netcoreapp3.1\zadanie4.dll
+C:\Repozytoria\Algorytmy_kolokwiumII\Algorytmy_KolokwiumII\zadanie4\obj\Debug\netcoreapp3.1\zadanie4.pdb
